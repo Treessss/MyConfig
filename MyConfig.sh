@@ -1,3 +1,4 @@
+#!/bin/bash
 cd /root/MyConfig
 git pull
 yes | cp /root/MyConfig/qiandao/setup.json /root/qiandao/setup.json
