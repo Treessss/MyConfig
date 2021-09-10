@@ -1,5 +1,5 @@
-cd /www/wwwroot/MyConfig
+cd /root/MyConfig
 git pull
-yes | cp /www/wwwroot/MyConfig/qiandao/setup.json /www/wwwroot/qiandao/setup.json
-yes | cp /www/wwwroot/MyConfig/NovelNotice/setup.json /www/wwwroot/NovelNotice/setup.json
+yes | cp /root/MyConfig/qiandao/setup.json /root/qiandao/setup.json
+yes | cp /root/MyConfig/NovelNotice/setup.json /root/NovelNotice/setup.json
 
